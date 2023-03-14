@@ -18,3 +18,6 @@ Python 2 пытается преобразовать табуляцию в пр�
 
 # строка 4
 text = "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design."
+
+# строка 5
+text = "Dj(.=(.(,,,,,ango i,,s a hi,,,,gh-,.,.,.,.level Python( web framewor(.....k"
