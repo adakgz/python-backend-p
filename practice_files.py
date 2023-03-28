@@ -13,3 +13,11 @@ but you should install an updated one (Python 3). See BeginnersGuide/Download fo
 .ylgu naht retteb si lufituaeB
 
 """
+
+# текст 3
+
+"""
+123
+aaa456
+fxdya 5 0 0
+"""
